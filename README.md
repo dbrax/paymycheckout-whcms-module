@@ -1,1 +1,1 @@
-# WHMCS Mobile Money Gateway Module Powered By Wopay #
+# WHMCS Mobile Money Gateway Module Powered By Paymycheckout #
